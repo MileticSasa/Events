@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EventsEditText">
+        <attr name="android:inputType" format="integer"/>
+        <attr name="android:color" format="color"/>
+        <attr name="android:text" format="string"/>
+        <attr name="android:src" format="integer"/>
+        <attr name="android:hint" format="string"/>
+        <attr name="android:enabled" format="boolean"/>
+        <attr name="android:textSize" format="integer"/>
+    </declare-styleable>
+
+</resources>

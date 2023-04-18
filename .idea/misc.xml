@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/background_blue_corner_radius.xml" value="0.1145" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/background_grey_transparent.xml" value="0.1095" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/background_transparent.xml" value="0.1215" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/backgroung_white_corners.xml" value="0.1345" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/button_drawable_red.xml" value="0.1215" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/button_drawable_transparent.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/ic_visibility.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/view_background_corner_radius.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/view_background_transparent_gradient.xml" value="0.1135" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/drawable/view_bottom_image_background.xml" value="0.1095" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_event_detail.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_forgot_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_intro.xml" value="0.18" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_show_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_splashscreen.xml" value="0.1859375" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_video_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/activity_web_view.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/fragment_favourites.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/fragment_nesto2.xml" value="0.203125" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/fragment_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_artist.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_event_big.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_event_detail_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_event_small.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_event_square.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_horizontal_event_rv.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_media.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_news.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_ticket.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_item_ulaznice.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/layout/rv_news_vertical_rv.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/menu/search_events_menu.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Lenovo Z570/AndroidStudioProjects/Events/app/src/main/res/xml/network_security_config.xml" value="0.380859375" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/background_blue_corner_radius.xml" value="0.1415" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/background_grey_transparent.xml" value="0.1415" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/background_purple_light_corner_radius.xml" value="0.1415" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/background_transparent_white_border.xml" value="0.14" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/backgroung_white_corners.xml" value="0.142" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/button_drawable_orange_corner_radius.xml" value="0.142" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/button_drawable_red.xml" value="0.1415" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/button_drawable_red_big_corner_radius.xml" value="0.142" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/button_drawable_transparent.xml" value="0.1415" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/button_transparent_white.xml" value="0.1415" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1415" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/ic_play_circle.xml" value="0.1415" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/drawable/view_background_transparent_gradient.xml" value="0.2495" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_acc_settings.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_event_detail.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_intro.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_login.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_main.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_manage_acount.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_update_email.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/activity_update_password.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/alert_dialog_email.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/fragment_favourites.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/fragment_map.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/fragment_nesto2.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/marker_info_window.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/remote_layout_collapsed.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/remote_layout_expanded.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/remote_layout_small.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_artist.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_author.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_header.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_media.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_media_item.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_news.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_news_item.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_ticket.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_ticket_item.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_tickets.xml" value="0.7833333333333333" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_detail_title.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_event_big.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_event_detail_header.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_horizontal_event_rv.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_marker_info.xml" value="0.1641025641025641" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_media.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_news.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_item_ticket.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/layout/rv_news_vertical_rv.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo Z570/Desktop/pomocni folder/Beskonacni projekat/Events/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

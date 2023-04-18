@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/purple">
+
+    <ImageView
+        android:id="@+id/imageViewIndicator"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/ic_play"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="@dimen/margin_normal"
+        android:layout_marginLeft="@dimen/margin_small"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewCategory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Neki tekst"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_big"
+        android:textStyle="bold"
+        android:layout_marginLeft="@dimen/margin_small"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewIndicator"
+        app:layout_constraintStart_toEndOf="@+id/imageViewIndicator"
+        app:layout_constraintTop_toTopOf="@+id/imageViewIndicator" />
+
+    <TextView
+        android:id="@+id/textViewShowAll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_show_all"
+        android:textColor="@color/pink"
+        android:textSize="@dimen/text_size_small"
+        android:layout_marginRight="@dimen/margin_normal"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewIndicator"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageViewIndicator" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginTop="@dimen/margin_normal"
+        android:layout_marginBottom="@dimen/margin_normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewIndicator" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
